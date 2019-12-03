@@ -1,0 +1,1 @@
+/usr/bin/c++  -pthread -g   CMakeFiles/ServerClientAssignment.dir/Server/WebServer.cpp.o CMakeFiles/ServerClientAssignment.dir/Server/RequestHandler.cpp.o CMakeFiles/ServerClientAssignment.dir/Client/main.cpp.o CMakeFiles/ServerClientAssignment.dir/Server/main.cpp.o  -o ServerClientAssignment 

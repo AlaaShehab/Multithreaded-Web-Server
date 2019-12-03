@@ -1,0 +1,3 @@
+/home/alaa/Desktop/ServerClientAssignment/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/alaa/Desktop/ServerClientAssignment/cmake-build-debug/CMakeFiles/ServerClientAssignment.dir
+/home/alaa/Desktop/ServerClientAssignment/cmake-build-debug/CMakeFiles/edit_cache.dir
